@@ -1,0 +1,61 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"rcsc/geom/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "include/rcsc/geom",
+			"paths" : 
+			[
+				"rcsc/geom/angle_deg.h",
+				"rcsc/geom/circle_2d.h",
+				"rcsc/geom/composite_region_2d.h",
+				"rcsc/geom/convex_hull.h",
+				"rcsc/geom/delaunay_triangulation.h",
+				"rcsc/geom/line_2d.h",
+				"rcsc/geom/matrix_2d.h",
+				"rcsc/geom/polygon_2d.h",
+				"rcsc/geom/ray_2d.h",
+				"rcsc/geom/rect_2d.h",
+				"rcsc/geom/region_2d.h",
+				"rcsc/geom/sector_2d.h",
+				"rcsc/geom/size_2d.h",
+				"rcsc/geom/segment_2d.h",
+				"rcsc/geom/triangle_2d.h",
+				"rcsc/geom/triangulation.h",
+				"rcsc/geom/vector_2d.h",
+				"rcsc/geom/voronoi_diagram.h",
+				"rcsc/geom/voronoi_diagram_triangle.h"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "rcsc/geom",
+		"source" : "rcsc/geom"
+	}
+}

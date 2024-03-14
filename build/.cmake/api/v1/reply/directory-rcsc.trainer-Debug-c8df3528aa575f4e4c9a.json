@@ -1,0 +1,45 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"rcsc/trainer/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "include/rcsc/trainer",
+			"paths" : 
+			[
+				"rcsc/trainer/trainer_agent.h",
+				"rcsc/trainer/trainer_command.h",
+				"rcsc/trainer/trainer_config.h"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "rcsc/trainer",
+		"source" : "rcsc/trainer"
+	}
+}

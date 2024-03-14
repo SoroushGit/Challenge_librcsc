@@ -1,0 +1,54 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"rcsc/formation/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 25,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "include/rcsc/formation",
+			"paths" : 
+			[
+				"rcsc/formation/formation.h",
+				"rcsc/formation/formation_data.h",
+				"rcsc/formation/formation_parser.h",
+				"rcsc/formation/formation_parser_csv.h",
+				"rcsc/formation/formation_parser_json.h",
+				"rcsc/formation/formation_parser_static.h",
+				"rcsc/formation/formation_parser_v1.h",
+				"rcsc/formation/formation_parser_v2.h",
+				"rcsc/formation/formation_parser_v3.h",
+				"rcsc/formation/formation_dt.h",
+				"rcsc/formation/formation_static.h",
+				"rcsc/formation/role_type.h"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "rcsc/formation",
+		"source" : "rcsc/formation"
+	}
+}

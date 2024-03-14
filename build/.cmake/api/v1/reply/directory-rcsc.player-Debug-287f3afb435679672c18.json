@@ -1,0 +1,76 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"rcsc/player/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 38,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "include/rcsc/player",
+			"paths" : 
+			[
+				"rcsc/player/abstract_player_object.h",
+				"rcsc/player/action_effector.h",
+				"rcsc/player/audio_sensor.h",
+				"rcsc/player/ball_object.h",
+				"rcsc/player/body_sensor.h",
+				"rcsc/player/debug_client.h",
+				"rcsc/player/free_message.h",
+				"rcsc/player/fullstate_sensor.h",
+				"rcsc/player/intercept.h",
+				"rcsc/player/intercept_simulator_player.h",
+				"rcsc/player/intercept_simulator_self.h",
+				"rcsc/player/intercept_simulator_self_v17.h",
+				"rcsc/player/intercept_table.h",
+				"rcsc/player/localization.h",
+				"rcsc/player/localization_default.h",
+				"rcsc/player/object_table.h",
+				"rcsc/player/penalty_kick_state.h",
+				"rcsc/player/player_command.h",
+				"rcsc/player/player_agent.h",
+				"rcsc/player/player_config.h",
+				"rcsc/player/player_evaluator.h",
+				"rcsc/player/player_object.h",
+				"rcsc/player/player_predicate.h",
+				"rcsc/player/player_state.h",
+				"rcsc/player/say_message_builder.h",
+				"rcsc/player/see_state.h",
+				"rcsc/player/self_object.h",
+				"rcsc/player/soccer_action.h",
+				"rcsc/player/soccer_intention.h",
+				"rcsc/player/view_area.h",
+				"rcsc/player/view_grid_map.h",
+				"rcsc/player/view_mode.h",
+				"rcsc/player/visual_sensor.h",
+				"rcsc/player/world_model.h"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "rcsc/player",
+		"source" : "rcsc/player"
+	}
+}

@@ -1,0 +1,1 @@
+/usr/bin/c++ -W -Wall -g CMakeFiles/rclmscheduler.dir/scheduler.cpp.o -o rclmscheduler  -Wl,-rpath,/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc: ../rcsc/librcsc.so.18.0.0 /usr/lib/x86_64-linux-gnu/libboost_system.so.1.74.0 

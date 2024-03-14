@@ -1,0 +1,697 @@
+[
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/util",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_util.dir/game_mode.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/util/game_mode.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/util/game_mode.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/util",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_util.dir/soccer_math.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/util/soccer_math.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/util/soccer_math.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/util",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_util.dir/version.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/util/version.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/util/version.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/geom",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_geom.dir/angle_deg.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/geom/angle_deg.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/geom/angle_deg.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/geom",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_geom.dir/circle_2d.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/geom/circle_2d.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/geom/circle_2d.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/geom",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_geom.dir/composite_region_2d.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/geom/composite_region_2d.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/geom/composite_region_2d.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/geom",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_geom.dir/convex_hull.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/geom/convex_hull.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/geom/convex_hull.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/geom",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_geom.dir/delaunay_triangulation.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/geom/delaunay_triangulation.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/geom/delaunay_triangulation.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/geom",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_geom.dir/line_2d.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/geom/line_2d.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/geom/line_2d.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/geom",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_geom.dir/matrix_2d.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/geom/matrix_2d.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/geom/matrix_2d.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/geom",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_geom.dir/polygon_2d.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/geom/polygon_2d.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/geom/polygon_2d.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/geom",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_geom.dir/ray_2d.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/geom/ray_2d.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/geom/ray_2d.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/geom",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_geom.dir/rect_2d.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/geom/rect_2d.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/geom/rect_2d.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/geom",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_geom.dir/sector_2d.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/geom/sector_2d.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/geom/sector_2d.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/geom",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_geom.dir/segment_2d.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/geom/segment_2d.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/geom/segment_2d.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/geom",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_geom.dir/triangle_2d.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/geom/triangle_2d.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/geom/triangle_2d.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/geom",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_geom.dir/triangulation.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/geom/triangulation.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/geom/triangulation.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/geom",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_geom.dir/vector_2d.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/geom/vector_2d.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/geom/vector_2d.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/geom",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_geom.dir/voronoi_diagram.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/geom/voronoi_diagram.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/geom/voronoi_diagram.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/geom",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_geom.dir/voronoi_diagram_triangle.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/geom/voronoi_diagram_triangle.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/geom/voronoi_diagram_triangle.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/geom/triangle",
+  "command": "/usr/bin/cc -DCDT_ONLY -DHAVE_CONFIG_H -DREAL=double -DREDUCED -DTRILIBRARY -DVOID=int -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -g -fPIC -o CMakeFiles/rcsc_geom_triangle.dir/triangle.c.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/geom/triangle/triangle.c",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/geom/triangle/triangle.c"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/gz",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_gz.dir/gzcompressor.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/gz/gzcompressor.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/gz/gzcompressor.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/gz",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_gz.dir/gzfstream.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/gz/gzfstream.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/gz/gzfstream.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/gz",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_gz.dir/gzfilterstream.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/gz/gzfilterstream.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/gz/gzfilterstream.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/param",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_param.dir/cmd_line_parser.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/param/cmd_line_parser.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/param/cmd_line_parser.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/param",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_param.dir/conf_file_parser.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/param/conf_file_parser.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/param/conf_file_parser.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/param",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_param.dir/param_map.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/param/param_map.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/param/param_map.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/param",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_param.dir/rcss_param_parser.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/param/rcss_param_parser.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/param/rcss_param_parser.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/rcg",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_rcg.dir/handler.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/rcg/handler.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/rcg/handler.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/rcg",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_rcg.dir/parser.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/rcg/parser.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/rcg/parser.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/rcg",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_rcg.dir/parser_v1.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/rcg/parser_v1.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/rcg/parser_v1.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/rcg",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_rcg.dir/parser_v2.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/rcg/parser_v2.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/rcg/parser_v2.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/rcg",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_rcg.dir/parser_v3.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/rcg/parser_v3.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/rcg/parser_v3.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/rcg",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_rcg.dir/parser_v4.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/rcg/parser_v4.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/rcg/parser_v4.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/rcg",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_rcg.dir/serializer.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/rcg/serializer.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/rcg/serializer.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/rcg",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_rcg.dir/serializer_v1.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/rcg/serializer_v1.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/rcg/serializer_v1.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/rcg",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_rcg.dir/serializer_v2.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/rcg/serializer_v2.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/rcg/serializer_v2.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/rcg",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_rcg.dir/serializer_v3.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/rcg/serializer_v3.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/rcg/serializer_v3.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/rcg",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_rcg.dir/serializer_v4.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/rcg/serializer_v4.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/rcg/serializer_v4.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/rcg",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_rcg.dir/serializer_v5.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/rcg/serializer_v5.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/rcg/serializer_v5.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/rcg",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_rcg.dir/serializer_v6.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/rcg/serializer_v6.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/rcg/serializer_v6.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/rcg",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_rcg.dir/util.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/rcg/util.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/rcg/util.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/net",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_net.dir/abstract_socket.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/net/abstract_socket.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/net/abstract_socket.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/net",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_net.dir/host_address.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/net/host_address.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/net/host_address.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/net",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_net.dir/udp_socket.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/net/udp_socket.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/net/udp_socket.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/net",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_net.dir/tcp_socket.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/net/tcp_socket.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/net/tcp_socket.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/time",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_time.dir/timer.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/time/timer.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/time/timer.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/ann",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_ann.dir/ngnet.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/ann/ngnet.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/ann/ngnet.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/ann",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_ann.dir/rbf.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/ann/rbf.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/ann/rbf.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/ann",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_ann.dir/sirm.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/ann/sirm.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/ann/sirm.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/ann",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_ann.dir/sirms_model.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/ann/sirms_model.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/ann/sirms_model.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/clang",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_clang.dir/clang_action.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/clang/clang_action.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/clang/clang_action.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/clang",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_clang.dir/clang_condition.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/clang/clang_condition.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/clang/clang_condition.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/clang",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_clang.dir/clang_directive.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/clang/clang_directive.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/clang/clang_directive.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/clang",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_clang.dir/clang_info_message.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/clang/clang_info_message.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/clang/clang_info_message.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/clang",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_clang.dir/clang_parser.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/clang/clang_parser.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/clang/clang_parser.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/clang",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_clang.dir/clang_token.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/clang/clang_token.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/clang/clang_token.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/clang",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_clang.dir/clang_unum.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/clang/clang_unum.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/clang/clang_unum.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/formation",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_formation.dir/formation.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/formation/formation.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/formation/formation.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/formation",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_formation.dir/formation_data.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/formation/formation_data.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/formation/formation_data.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/formation",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_formation.dir/formation_parser.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/formation/formation_parser.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/formation/formation_parser.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/formation",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_formation.dir/formation_parser_csv.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/formation/formation_parser_csv.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/formation/formation_parser_csv.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/formation",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_formation.dir/formation_parser_json.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/formation/formation_parser_json.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/formation/formation_parser_json.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/formation",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_formation.dir/formation_parser_static.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/formation/formation_parser_static.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/formation/formation_parser_static.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/formation",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_formation.dir/formation_parser_v1.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/formation/formation_parser_v1.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/formation/formation_parser_v1.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/formation",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_formation.dir/formation_parser_v2.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/formation/formation_parser_v2.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/formation/formation_parser_v2.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/formation",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_formation.dir/formation_parser_v3.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/formation/formation_parser_v3.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/formation/formation_parser_v3.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/formation",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_formation.dir/formation_dt.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/formation/formation_dt.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/formation/formation_dt.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/formation",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_formation.dir/formation_static.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/formation/formation_static.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/formation/formation_static.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/formation",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_formation.dir/role_type.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/formation/role_type.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/formation/role_type.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/color",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_color.dir/rgb_color.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/color/rgb_color.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/color/rgb_color.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/color",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_color.dir/gradation_color_provider.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/color/gradation_color_provider.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/color/gradation_color_provider.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/color",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_color.dir/gray_scale_provider.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/color/gray_scale_provider.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/color/gray_scale_provider.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/color",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_color.dir/thermo_color_provider.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/color/thermo_color_provider.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/color/thermo_color_provider.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/common",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_common.dir/abstract_client.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/common/abstract_client.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/common/abstract_client.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/common",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_common.dir/audio_codec.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/common/audio_codec.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/common/audio_codec.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/common",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_common.dir/audio_memory.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/common/audio_memory.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/common/audio_memory.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/common",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_common.dir/logger.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/common/logger.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/common/logger.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/common",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_common.dir/offline_client.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/common/offline_client.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/common/offline_client.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/common",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_common.dir/online_client.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/common/online_client.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/common/online_client.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/common",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_common.dir/player_param.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/common/player_param.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/common/player_param.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/common",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_common.dir/player_type.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/common/player_type.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/common/player_type.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/common",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_common.dir/say_message_parser.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/common/say_message_parser.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/common/say_message_parser.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/common",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_common.dir/server_param.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/common/server_param.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/common/server_param.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/common",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_common.dir/soccer_agent.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/common/soccer_agent.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/common/soccer_agent.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/common",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_common.dir/stamina_model.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/common/stamina_model.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/common/stamina_model.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/common",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_common.dir/team_graphic.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/common/team_graphic.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/common/team_graphic.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/monitor",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_monitor.dir/monitor_command.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/monitor/monitor_command.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/monitor/monitor_command.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/player",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_player.dir/abstract_player_object.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/player/abstract_player_object.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/player/abstract_player_object.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/player",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_player.dir/action_effector.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/player/action_effector.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/player/action_effector.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/player",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_player.dir/audio_sensor.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/player/audio_sensor.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/player/audio_sensor.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/player",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_player.dir/ball_object.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/player/ball_object.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/player/ball_object.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/player",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_player.dir/body_sensor.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/player/body_sensor.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/player/body_sensor.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/player",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_player.dir/debug_client.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/player/debug_client.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/player/debug_client.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/player",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_player.dir/fullstate_sensor.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/player/fullstate_sensor.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/player/fullstate_sensor.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/player",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_player.dir/intercept.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/player/intercept.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/player/intercept.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/player",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_player.dir/intercept_simulator_player.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/player/intercept_simulator_player.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/player/intercept_simulator_player.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/player",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_player.dir/intercept_simulator_self_v17.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/player/intercept_simulator_self_v17.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/player/intercept_simulator_self_v17.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/player",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_player.dir/intercept_table.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/player/intercept_table.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/player/intercept_table.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/player",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_player.dir/localization_default.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/player/localization_default.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/player/localization_default.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/player",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_player.dir/object_table.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/player/object_table.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/player/object_table.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/player",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_player.dir/penalty_kick_state.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/player/penalty_kick_state.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/player/penalty_kick_state.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/player",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_player.dir/player_command.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/player/player_command.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/player/player_command.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/player",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_player.dir/player_agent.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/player/player_agent.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/player/player_agent.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/player",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_player.dir/player_config.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/player/player_config.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/player/player_config.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/player",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_player.dir/player_object.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/player/player_object.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/player/player_object.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/player",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_player.dir/player_state.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/player/player_state.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/player/player_state.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/player",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_player.dir/say_message_builder.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/player/say_message_builder.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/player/say_message_builder.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/player",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_player.dir/see_state.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/player/see_state.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/player/see_state.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/player",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_player.dir/self_object.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/player/self_object.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/player/self_object.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/player",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_player.dir/soccer_action.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/player/soccer_action.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/player/soccer_action.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/player",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_player.dir/view_grid_map.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/player/view_grid_map.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/player/view_grid_map.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/player",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_player.dir/view_mode.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/player/view_mode.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/player/view_mode.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/player",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_player.dir/visual_sensor.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/player/visual_sensor.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/player/visual_sensor.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/player",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_player.dir/world_model.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/player/world_model.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/player/world_model.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/coach",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_coach.dir/coach_agent.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/coach/coach_agent.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/coach/coach_agent.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/coach",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_coach.dir/coach_audio_sensor.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/coach/coach_audio_sensor.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/coach/coach_audio_sensor.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/coach",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_coach.dir/coach_ball_object.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/coach/coach_ball_object.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/coach/coach_ball_object.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/coach",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_coach.dir/coach_command.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/coach/coach_command.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/coach/coach_command.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/coach",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_coach.dir/coach_config.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/coach/coach_config.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/coach/coach_config.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/coach",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_coach.dir/coach_debug_client.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/coach/coach_debug_client.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/coach/coach_debug_client.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/coach",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_coach.dir/coach_intercept_predictor.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/coach/coach_intercept_predictor.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/coach/coach_intercept_predictor.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/coach",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_coach.dir/coach_player_object.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/coach/coach_player_object.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/coach/coach_player_object.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/coach",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_coach.dir/coach_visual_sensor.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/coach/coach_visual_sensor.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/coach/coach_visual_sensor.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/coach",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_coach.dir/coach_world_model.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/coach/coach_world_model.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/coach/coach_world_model.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/coach",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_coach.dir/coach_world_state.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/coach/coach_world_state.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/coach/coach_world_state.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/coach",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_coach.dir/player_type_analyzer.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/coach/player_type_analyzer.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/coach/player_type_analyzer.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/trainer",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_trainer.dir/trainer_agent.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/trainer/trainer_agent.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/trainer/trainer_agent.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/trainer",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_trainer.dir/trainer_command.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/trainer/trainer_command.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/trainer/trainer_command.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/rcsc/trainer",
+  "command": "/usr/bin/c++ -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -fPIC -std=gnu++17 -o CMakeFiles/rcsc_trainer.dir/trainer_config.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/trainer/trainer_config.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/rcsc/trainer/trainer_config.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/src",
+  "command": "/usr/bin/c++ -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -std=gnu++17 -o CMakeFiles/rclmscheduler.dir/scheduler.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/src/scheduler.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/src/scheduler.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/src",
+  "command": "/usr/bin/c++ -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -std=gnu++17 -o CMakeFiles/rclmtableprinter.dir/resultprinter.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/src/resultprinter.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/src/resultprinter.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/src",
+  "command": "/usr/bin/c++ -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -std=gnu++17 -o CMakeFiles/rcg2csv.dir/rcg2csv.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/src/rcg2csv.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/src/rcg2csv.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/src",
+  "command": "/usr/bin/c++ -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -std=gnu++17 -o CMakeFiles/rcg2txt.dir/rcg2txt.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/src/rcg2txt.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/src/rcg2txt.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/src",
+  "command": "/usr/bin/c++ -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -std=gnu++17 -o CMakeFiles/rcgrenameteam.dir/rcgrenameteam.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/src/rcgrenameteam.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/src/rcgrenameteam.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/src",
+  "command": "/usr/bin/c++ -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -std=gnu++17 -o CMakeFiles/rcgresultprinter.dir/resultprinter.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/src/resultprinter.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/src/resultprinter.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/src",
+  "command": "/usr/bin/c++ -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -std=gnu++17 -o CMakeFiles/rcgreverse.dir/rcgreverse.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/src/rcgreverse.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/src/rcgreverse.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/src",
+  "command": "/usr/bin/c++ -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -std=gnu++17 -o CMakeFiles/rcgverconv.dir/rcgverconv.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/src/rcgverconv.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/src/rcgverconv.cpp"
+},
+{
+  "directory": "/home/soroush/Soccer/Challenge/Challenge_librcsc/build/src",
+  "command": "/usr/bin/c++ -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DHAVE_CONFIG_H -I/home/soroush/Soccer/Challenge/Challenge_librcsc -I/home/soroush/Soccer/Challenge/Challenge_librcsc/build -W -Wall -g -std=gnu++17 -o CMakeFiles/rcgversion.dir/rcgversion.cpp.o -c /home/soroush/Soccer/Challenge/Challenge_librcsc/src/rcgversion.cpp",
+  "file": "/home/soroush/Soccer/Challenge/Challenge_librcsc/src/rcgversion.cpp"
+}
+]

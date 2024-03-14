@@ -1,0 +1,87 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"rcsc/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 59,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 69,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Libraries",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"rcsc/librcsc.so.18.0.0",
+				"rcsc/librcsc.so.18"
+			],
+			"targetId" : "rcsc::@a2ab41fcb4dec27f4fb2",
+			"targetIndex" : 9,
+			"targetInstallNamelink" : "skip",
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Libraries",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"rcsc/librcsc.so"
+			],
+			"targetId" : "rcsc::@a2ab41fcb4dec27f4fb2",
+			"targetIndex" : 9,
+			"targetInstallNamelink" : "only",
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "include/rcsc",
+			"paths" : 
+			[
+				"rcsc/types.h",
+				"rcsc/geom.h",
+				"rcsc/gz.h",
+				"rcsc/rcg.h",
+				"rcsc/factory.h",
+				"rcsc/game_mode.h",
+				"rcsc/game_time.h",
+				"rcsc/math_util.h",
+				"rcsc/random.h",
+				"rcsc/soccer_math.h",
+				"rcsc/timer.h",
+				"rcsc/version.h"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "rcsc",
+		"source" : "rcsc"
+	}
+}

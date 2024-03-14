@@ -1,0 +1,52 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"rcsc/clang/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 20,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "include/rcsc/clang",
+			"paths" : 
+			[
+				"rcsc/clang/clang_action.h",
+				"rcsc/clang/clang_condition.h",
+				"rcsc/clang/clang_directive.h",
+				"rcsc/clang/clang_info_message.h",
+				"rcsc/clang/clang_message.h",
+				"rcsc/clang/clang_parser.h",
+				"rcsc/clang/clang_token.h",
+				"rcsc/clang/clang_unum.h",
+				"rcsc/clang/clang.h",
+				"rcsc/clang/types.h"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "rcsc/clang",
+		"source" : "rcsc/clang"
+	}
+}

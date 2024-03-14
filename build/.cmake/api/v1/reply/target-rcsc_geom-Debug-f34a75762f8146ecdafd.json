@@ -1,0 +1,298 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "rcsc/geom/CMakeFiles/rcsc_geom.dir/angle_deg.cpp.o"
+		},
+		{
+			"path" : "rcsc/geom/CMakeFiles/rcsc_geom.dir/circle_2d.cpp.o"
+		},
+		{
+			"path" : "rcsc/geom/CMakeFiles/rcsc_geom.dir/composite_region_2d.cpp.o"
+		},
+		{
+			"path" : "rcsc/geom/CMakeFiles/rcsc_geom.dir/convex_hull.cpp.o"
+		},
+		{
+			"path" : "rcsc/geom/CMakeFiles/rcsc_geom.dir/delaunay_triangulation.cpp.o"
+		},
+		{
+			"path" : "rcsc/geom/CMakeFiles/rcsc_geom.dir/line_2d.cpp.o"
+		},
+		{
+			"path" : "rcsc/geom/CMakeFiles/rcsc_geom.dir/matrix_2d.cpp.o"
+		},
+		{
+			"path" : "rcsc/geom/CMakeFiles/rcsc_geom.dir/polygon_2d.cpp.o"
+		},
+		{
+			"path" : "rcsc/geom/CMakeFiles/rcsc_geom.dir/ray_2d.cpp.o"
+		},
+		{
+			"path" : "rcsc/geom/CMakeFiles/rcsc_geom.dir/rect_2d.cpp.o"
+		},
+		{
+			"path" : "rcsc/geom/CMakeFiles/rcsc_geom.dir/sector_2d.cpp.o"
+		},
+		{
+			"path" : "rcsc/geom/CMakeFiles/rcsc_geom.dir/segment_2d.cpp.o"
+		},
+		{
+			"path" : "rcsc/geom/CMakeFiles/rcsc_geom.dir/triangle_2d.cpp.o"
+		},
+		{
+			"path" : "rcsc/geom/CMakeFiles/rcsc_geom.dir/triangulation.cpp.o"
+		},
+		{
+			"path" : "rcsc/geom/CMakeFiles/rcsc_geom.dir/vector_2d.cpp.o"
+		},
+		{
+			"path" : "rcsc/geom/CMakeFiles/rcsc_geom.dir/voronoi_diagram.cpp.o"
+		},
+		{
+			"path" : "rcsc/geom/CMakeFiles/rcsc_geom.dir/voronoi_diagram_triangle.cpp.o"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"add_definitions",
+			"target_include_directories"
+		],
+		"files" : 
+		[
+			"rcsc/geom/CMakeLists.txt",
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 4,
+				"parent" : 0
+			},
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 64,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 26,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-W -Wall -g -fPIC"
+				},
+				{
+					"fragment" : "-std=gnu++17"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 3,
+					"define" : "HAVE_CONFIG_H"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 4,
+					"path" : "/home/soroush/Soccer/Challenge/Challenge_librcsc"
+				},
+				{
+					"backtrace" : 4,
+					"path" : "/home/soroush/Soccer/Challenge/Challenge_librcsc/build"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16
+			]
+		}
+	],
+	"id" : "rcsc_geom::@9ad2f295c794a1a45fb2",
+	"name" : "rcsc_geom",
+	"paths" : 
+	{
+		"build" : "rcsc/geom",
+		"source" : "rcsc/geom"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "rcsc/geom/angle_deg.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "rcsc/geom/circle_2d.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "rcsc/geom/composite_region_2d.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "rcsc/geom/convex_hull.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "rcsc/geom/delaunay_triangulation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "rcsc/geom/line_2d.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "rcsc/geom/matrix_2d.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "rcsc/geom/polygon_2d.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "rcsc/geom/ray_2d.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "rcsc/geom/rect_2d.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "rcsc/geom/sector_2d.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "rcsc/geom/segment_2d.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "rcsc/geom/triangle_2d.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "rcsc/geom/triangulation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "rcsc/geom/vector_2d.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "rcsc/geom/voronoi_diagram.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "rcsc/geom/voronoi_diagram_triangle.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "OBJECT_LIBRARY"
+}

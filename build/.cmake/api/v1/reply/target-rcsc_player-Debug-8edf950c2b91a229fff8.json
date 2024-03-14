@@ -1,0 +1,408 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "rcsc/player/CMakeFiles/rcsc_player.dir/abstract_player_object.cpp.o"
+		},
+		{
+			"path" : "rcsc/player/CMakeFiles/rcsc_player.dir/action_effector.cpp.o"
+		},
+		{
+			"path" : "rcsc/player/CMakeFiles/rcsc_player.dir/audio_sensor.cpp.o"
+		},
+		{
+			"path" : "rcsc/player/CMakeFiles/rcsc_player.dir/ball_object.cpp.o"
+		},
+		{
+			"path" : "rcsc/player/CMakeFiles/rcsc_player.dir/body_sensor.cpp.o"
+		},
+		{
+			"path" : "rcsc/player/CMakeFiles/rcsc_player.dir/debug_client.cpp.o"
+		},
+		{
+			"path" : "rcsc/player/CMakeFiles/rcsc_player.dir/fullstate_sensor.cpp.o"
+		},
+		{
+			"path" : "rcsc/player/CMakeFiles/rcsc_player.dir/intercept.cpp.o"
+		},
+		{
+			"path" : "rcsc/player/CMakeFiles/rcsc_player.dir/intercept_simulator_player.cpp.o"
+		},
+		{
+			"path" : "rcsc/player/CMakeFiles/rcsc_player.dir/intercept_simulator_self_v17.cpp.o"
+		},
+		{
+			"path" : "rcsc/player/CMakeFiles/rcsc_player.dir/intercept_table.cpp.o"
+		},
+		{
+			"path" : "rcsc/player/CMakeFiles/rcsc_player.dir/localization_default.cpp.o"
+		},
+		{
+			"path" : "rcsc/player/CMakeFiles/rcsc_player.dir/object_table.cpp.o"
+		},
+		{
+			"path" : "rcsc/player/CMakeFiles/rcsc_player.dir/penalty_kick_state.cpp.o"
+		},
+		{
+			"path" : "rcsc/player/CMakeFiles/rcsc_player.dir/player_command.cpp.o"
+		},
+		{
+			"path" : "rcsc/player/CMakeFiles/rcsc_player.dir/player_agent.cpp.o"
+		},
+		{
+			"path" : "rcsc/player/CMakeFiles/rcsc_player.dir/player_config.cpp.o"
+		},
+		{
+			"path" : "rcsc/player/CMakeFiles/rcsc_player.dir/player_object.cpp.o"
+		},
+		{
+			"path" : "rcsc/player/CMakeFiles/rcsc_player.dir/player_state.cpp.o"
+		},
+		{
+			"path" : "rcsc/player/CMakeFiles/rcsc_player.dir/say_message_builder.cpp.o"
+		},
+		{
+			"path" : "rcsc/player/CMakeFiles/rcsc_player.dir/see_state.cpp.o"
+		},
+		{
+			"path" : "rcsc/player/CMakeFiles/rcsc_player.dir/self_object.cpp.o"
+		},
+		{
+			"path" : "rcsc/player/CMakeFiles/rcsc_player.dir/soccer_action.cpp.o"
+		},
+		{
+			"path" : "rcsc/player/CMakeFiles/rcsc_player.dir/view_grid_map.cpp.o"
+		},
+		{
+			"path" : "rcsc/player/CMakeFiles/rcsc_player.dir/view_mode.cpp.o"
+		},
+		{
+			"path" : "rcsc/player/CMakeFiles/rcsc_player.dir/visual_sensor.cpp.o"
+		},
+		{
+			"path" : "rcsc/player/CMakeFiles/rcsc_player.dir/world_model.cpp.o"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"add_definitions",
+			"target_include_directories"
+		],
+		"files" : 
+		[
+			"rcsc/player/CMakeLists.txt",
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 2,
+				"parent" : 0
+			},
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 64,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 32,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-W -Wall -g -fPIC"
+				},
+				{
+					"fragment" : "-std=gnu++17"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 3,
+					"define" : "HAVE_CONFIG_H"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 4,
+					"path" : "/home/soroush/Soccer/Challenge/Challenge_librcsc"
+				},
+				{
+					"backtrace" : 4,
+					"path" : "/home/soroush/Soccer/Challenge/Challenge_librcsc/build"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26
+			]
+		}
+	],
+	"id" : "rcsc_player::@0706287f4730ce605193",
+	"name" : "rcsc_player",
+	"paths" : 
+	{
+		"build" : "rcsc/player",
+		"source" : "rcsc/player"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "rcsc/player/abstract_player_object.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "rcsc/player/action_effector.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "rcsc/player/audio_sensor.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "rcsc/player/ball_object.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "rcsc/player/body_sensor.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "rcsc/player/debug_client.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "rcsc/player/fullstate_sensor.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "rcsc/player/intercept.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "rcsc/player/intercept_simulator_player.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "rcsc/player/intercept_simulator_self_v17.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "rcsc/player/intercept_table.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "rcsc/player/localization_default.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "rcsc/player/object_table.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "rcsc/player/penalty_kick_state.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "rcsc/player/player_command.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "rcsc/player/player_agent.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "rcsc/player/player_config.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "rcsc/player/player_object.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "rcsc/player/player_state.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "rcsc/player/say_message_builder.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "rcsc/player/see_state.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "rcsc/player/self_object.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "rcsc/player/soccer_action.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "rcsc/player/view_grid_map.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "rcsc/player/view_mode.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "rcsc/player/visual_sensor.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "rcsc/player/world_model.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "OBJECT_LIBRARY"
+}

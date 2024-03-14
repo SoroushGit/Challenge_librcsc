@@ -1,0 +1,54 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"rcsc/coach/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 25,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "include/rcsc/coach",
+			"paths" : 
+			[
+				"rcsc/coach/coach_agent.h",
+				"rcsc/coach/coach_audio_sensor.h",
+				"rcsc/coach/coach_ball_object.h",
+				"rcsc/coach/coach_command.h",
+				"rcsc/coach/coach_config.h",
+				"rcsc/coach/coach_debug_client.h",
+				"rcsc/coach/coach_intercept_predictor.h",
+				"rcsc/coach/coach_player_object.h",
+				"rcsc/coach/coach_visual_sensor.h",
+				"rcsc/coach/coach_world_model.h",
+				"rcsc/coach/coach_world_state.h",
+				"rcsc/coach/player_type_analyzer.h"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "rcsc/coach",
+		"source" : "rcsc/coach"
+	}
+}

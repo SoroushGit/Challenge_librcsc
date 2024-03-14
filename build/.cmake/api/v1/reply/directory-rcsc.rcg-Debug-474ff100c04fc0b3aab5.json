@@ -1,0 +1,57 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"rcsc/rcg/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 27,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "include/rcsc/rcg",
+			"paths" : 
+			[
+				"rcsc/rcg/handler.h",
+				"rcsc/rcg/parser.h",
+				"rcsc/rcg/parser_v1.h",
+				"rcsc/rcg/parser_v2.h",
+				"rcsc/rcg/parser_v3.h",
+				"rcsc/rcg/parser_v4.h",
+				"rcsc/rcg/serializer.h",
+				"rcsc/rcg/serializer_v1.h",
+				"rcsc/rcg/serializer_v2.h",
+				"rcsc/rcg/serializer_v3.h",
+				"rcsc/rcg/serializer_v4.h",
+				"rcsc/rcg/serializer_v5.h",
+				"rcsc/rcg/serializer_v6.h",
+				"rcsc/rcg/types.h",
+				"rcsc/rcg/util.h"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "rcsc/rcg",
+		"source" : "rcsc/rcg"
+	}
+}

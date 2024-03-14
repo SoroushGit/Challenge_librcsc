@@ -1,0 +1,47 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"rcsc/ann/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 17,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "include/rcsc/ann",
+			"paths" : 
+			[
+				"rcsc/ann/bpn1.h",
+				"rcsc/ann/ngnet.h",
+				"rcsc/ann/rbf.h",
+				"rcsc/ann/sirm.h",
+				"rcsc/ann/sirms_model.h"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "rcsc/ann",
+		"source" : "rcsc/ann"
+	}
+}

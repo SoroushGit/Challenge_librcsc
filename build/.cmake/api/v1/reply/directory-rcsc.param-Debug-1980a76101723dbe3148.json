@@ -1,0 +1,47 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"rcsc/param/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 17,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "include/rcsc/param",
+			"paths" : 
+			[
+				"rcsc/param/cmd_line_parser.h",
+				"rcsc/param/conf_file_parser.h",
+				"rcsc/param/param_map.h",
+				"rcsc/param/param_parser.h",
+				"rcsc/param/rcss_param_parser.h"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "rcsc/param",
+		"source" : "rcsc/param"
+	}
+}

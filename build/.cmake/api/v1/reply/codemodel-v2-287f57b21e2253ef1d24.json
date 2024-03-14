@@ -1,0 +1,622 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						19
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-bb6f069bb4be00f2585c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "rcsc",
+					"childIndexes" : 
+					[
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-rcsc-Debug-25c624fcbd24ac1b8799.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "rcsc",
+					"targetIndexes" : 
+					[
+						9
+					]
+				},
+				{
+					"build" : "rcsc/util",
+					"jsonFile" : "directory-rcsc.util-Debug-a7924ce9ad8cbf18544e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "rcsc/util",
+					"targetIndexes" : 
+					[
+						26
+					]
+				},
+				{
+					"build" : "rcsc/geom",
+					"childIndexes" : 
+					[
+						4
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-rcsc.geom-Debug-da8c3912758a0af3c080.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "rcsc/geom",
+					"targetIndexes" : 
+					[
+						16
+					]
+				},
+				{
+					"build" : "rcsc/geom/triangle",
+					"jsonFile" : "directory-rcsc.geom.triangle-Debug-e1077b888653d1cddb19.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 0,
+					"source" : "rcsc/geom/triangle",
+					"targetIndexes" : 
+					[
+						17
+					]
+				},
+				{
+					"build" : "rcsc/gz",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-rcsc.gz-Debug-00d0b58525a0ddbbce91.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "rcsc/gz",
+					"targetIndexes" : 
+					[
+						18
+					]
+				},
+				{
+					"build" : "rcsc/param",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-rcsc.param-Debug-1980a76101723dbe3148.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "rcsc/param",
+					"targetIndexes" : 
+					[
+						21
+					]
+				},
+				{
+					"build" : "rcsc/rcg",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-rcsc.rcg-Debug-474ff100c04fc0b3aab5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "rcsc/rcg",
+					"targetIndexes" : 
+					[
+						23
+					]
+				},
+				{
+					"build" : "rcsc/net",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-rcsc.net-Debug-c35b5d9ddd0e2716bdd0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "rcsc/net",
+					"targetIndexes" : 
+					[
+						20
+					]
+				},
+				{
+					"build" : "rcsc/time",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-rcsc.time-Debug-9ef6f4d243dda80c94b4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "rcsc/time",
+					"targetIndexes" : 
+					[
+						24
+					]
+				},
+				{
+					"build" : "rcsc/ann",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-rcsc.ann-Debug-8dac9b4a6c5c1c7e8784.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "rcsc/ann",
+					"targetIndexes" : 
+					[
+						10
+					]
+				},
+				{
+					"build" : "rcsc/clang",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-rcsc.clang-Debug-4477f0b2eab8cfca761a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "rcsc/clang",
+					"targetIndexes" : 
+					[
+						11
+					]
+				},
+				{
+					"build" : "rcsc/formation",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-rcsc.formation-Debug-fe7e86c0f520dc5230d4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "rcsc/formation",
+					"targetIndexes" : 
+					[
+						15
+					]
+				},
+				{
+					"build" : "rcsc/color",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-rcsc.color-Debug-ce22dcf7213bbcea9884.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "rcsc/color",
+					"targetIndexes" : 
+					[
+						13
+					]
+				},
+				{
+					"build" : "rcsc/common",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-rcsc.common-Debug-2c71df7fb768b290c0e5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "rcsc/common",
+					"targetIndexes" : 
+					[
+						14
+					]
+				},
+				{
+					"build" : "rcsc/monitor",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-rcsc.monitor-Debug-a08b75daaae5f4df39eb.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "rcsc/monitor",
+					"targetIndexes" : 
+					[
+						19
+					]
+				},
+				{
+					"build" : "rcsc/player",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-rcsc.player-Debug-287f3afb435679672c18.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "rcsc/player",
+					"targetIndexes" : 
+					[
+						22
+					]
+				},
+				{
+					"build" : "rcsc/coach",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-rcsc.coach-Debug-c60f408c50590606ceba.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "rcsc/coach",
+					"targetIndexes" : 
+					[
+						12
+					]
+				},
+				{
+					"build" : "rcsc/trainer",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-rcsc.trainer-Debug-c8df3528aa575f4e4c9a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "rcsc/trainer",
+					"targetIndexes" : 
+					[
+						25
+					]
+				},
+				{
+					"build" : "src",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-src-Debug-0d496c920ff1f927d3f2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19
+					],
+					"name" : "librcsc",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 19,
+					"id" : "rcg2csv::@145eef247bfb46b6828c",
+					"jsonFile" : "target-rcg2csv-Debug-3329142a395768a39bcb.json",
+					"name" : "rcg2csv",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 19,
+					"id" : "rcg2txt::@145eef247bfb46b6828c",
+					"jsonFile" : "target-rcg2txt-Debug-6ce3f41b46971200e374.json",
+					"name" : "rcg2txt",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 19,
+					"id" : "rcgrenameteam::@145eef247bfb46b6828c",
+					"jsonFile" : "target-rcgrenameteam-Debug-c092bc7984bcd28f93d9.json",
+					"name" : "rcgrenameteam",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 19,
+					"id" : "rcgresultprinter::@145eef247bfb46b6828c",
+					"jsonFile" : "target-rcgresultprinter-Debug-ad4f1d69001f0ac34f6b.json",
+					"name" : "rcgresultprinter",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 19,
+					"id" : "rcgreverse::@145eef247bfb46b6828c",
+					"jsonFile" : "target-rcgreverse-Debug-cc1c6d8f455dc9139c0b.json",
+					"name" : "rcgreverse",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 19,
+					"id" : "rcgverconv::@145eef247bfb46b6828c",
+					"jsonFile" : "target-rcgverconv-Debug-2d71a5ce2baacc5332e1.json",
+					"name" : "rcgverconv",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 19,
+					"id" : "rcgversion::@145eef247bfb46b6828c",
+					"jsonFile" : "target-rcgversion-Debug-171126503d4c1006008d.json",
+					"name" : "rcgversion",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 19,
+					"id" : "rclmscheduler::@145eef247bfb46b6828c",
+					"jsonFile" : "target-rclmscheduler-Debug-6cca2135015b241e2dc6.json",
+					"name" : "rclmscheduler",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 19,
+					"id" : "rclmtableprinter::@145eef247bfb46b6828c",
+					"jsonFile" : "target-rclmtableprinter-Debug-2b8b2fe528352ed3c639.json",
+					"name" : "rclmtableprinter",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "rcsc::@a2ab41fcb4dec27f4fb2",
+					"jsonFile" : "target-rcsc-Debug-68b11e661c33e6f52477.json",
+					"name" : "rcsc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "rcsc_ann::@11aea7bd8fba44fc2c0f",
+					"jsonFile" : "target-rcsc_ann-Debug-88e0e87755207475fc5d.json",
+					"name" : "rcsc_ann",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "rcsc_clang::@ab78507818e1078886fe",
+					"jsonFile" : "target-rcsc_clang-Debug-2539ad49345bf48cc685.json",
+					"name" : "rcsc_clang",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 17,
+					"id" : "rcsc_coach::@10d2c2152e3704fea910",
+					"jsonFile" : "target-rcsc_coach-Debug-119b283cc5e9d8070d7a.json",
+					"name" : "rcsc_coach",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "rcsc_color::@599d84b887fc23c780a5",
+					"jsonFile" : "target-rcsc_color-Debug-e00bf2341c6be466fbf1.json",
+					"name" : "rcsc_color",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 14,
+					"id" : "rcsc_common::@26c477a18d23a65aaed4",
+					"jsonFile" : "target-rcsc_common-Debug-751ebcc2ac7de7c758fd.json",
+					"name" : "rcsc_common",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "rcsc_formation::@ce1c2047ab6234618842",
+					"jsonFile" : "target-rcsc_formation-Debug-4fa1af7df7d689f56e9f.json",
+					"name" : "rcsc_formation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "rcsc_geom::@9ad2f295c794a1a45fb2",
+					"jsonFile" : "target-rcsc_geom-Debug-f34a75762f8146ecdafd.json",
+					"name" : "rcsc_geom",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "rcsc_geom_triangle::@7e30cf3fab09b94bc7e3",
+					"jsonFile" : "target-rcsc_geom_triangle-Debug-2530f4cb395a3dbf7255.json",
+					"name" : "rcsc_geom_triangle",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "rcsc_gz::@8d44f21f8da9b39e9605",
+					"jsonFile" : "target-rcsc_gz-Debug-8b0c4d275bb3ead6f5d0.json",
+					"name" : "rcsc_gz",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 15,
+					"id" : "rcsc_monitor::@c7138c1e42388941b2de",
+					"jsonFile" : "target-rcsc_monitor-Debug-4886dab44ea0748a30ab.json",
+					"name" : "rcsc_monitor",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "rcsc_net::@281aad0556d5967edaa0",
+					"jsonFile" : "target-rcsc_net-Debug-3325e46bad32cc4ff6a7.json",
+					"name" : "rcsc_net",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "rcsc_param::@e9880daac802b5067ab1",
+					"jsonFile" : "target-rcsc_param-Debug-fccaa46c3cbe01179072.json",
+					"name" : "rcsc_param",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 16,
+					"id" : "rcsc_player::@0706287f4730ce605193",
+					"jsonFile" : "target-rcsc_player-Debug-8edf950c2b91a229fff8.json",
+					"name" : "rcsc_player",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "rcsc_rcg::@b7f4666b00e8c9c5f6ad",
+					"jsonFile" : "target-rcsc_rcg-Debug-71f6d1bca74006c97279.json",
+					"name" : "rcsc_rcg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "rcsc_time::@12461d522e63cc150fc0",
+					"jsonFile" : "target-rcsc_time-Debug-26b4f4ce847d01dd8b65.json",
+					"name" : "rcsc_time",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 18,
+					"id" : "rcsc_trainer::@bee1d5de3b85b0b91334",
+					"jsonFile" : "target-rcsc_trainer-Debug-e56291a9284f2e7cb143.json",
+					"name" : "rcsc_trainer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "rcsc_util::@0c0936ebb076450ce353",
+					"jsonFile" : "target-rcsc_util-Debug-fc2aa4c6b107118bc7c6.json",
+					"name" : "rcsc_util",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/soroush/Soccer/Challenge/Challenge_librcsc/build",
+		"source" : "/home/soroush/Soccer/Challenge/Challenge_librcsc"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

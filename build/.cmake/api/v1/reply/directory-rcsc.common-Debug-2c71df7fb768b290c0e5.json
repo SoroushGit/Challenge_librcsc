@@ -1,0 +1,60 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"rcsc/common/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 26,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "include/rcsc/common",
+			"paths" : 
+			[
+				"rcsc/common/abstract_client.h",
+				"rcsc/common/audio_codec.h",
+				"rcsc/common/audio_memory.h",
+				"rcsc/common/audio_message.h",
+				"rcsc/common/free_message_parser.h",
+				"rcsc/common/freeform_message.h",
+				"rcsc/common/freeform_message_parser.h",
+				"rcsc/common/logger.h",
+				"rcsc/common/offline_client.h",
+				"rcsc/common/online_client.h",
+				"rcsc/common/player_param.h",
+				"rcsc/common/player_type.h",
+				"rcsc/common/say_message.h",
+				"rcsc/common/say_message_parser.h",
+				"rcsc/common/server_param.h",
+				"rcsc/common/soccer_agent.h",
+				"rcsc/common/stamina_model.h",
+				"rcsc/common/team_graphic.h"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "rcsc/common",
+		"source" : "rcsc/common"
+	}
+}
